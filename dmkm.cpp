@@ -1,4 +1,4 @@
-﻿/////////////////// Copyright © 2021 Mykhailo Morrison All rights reserved. ////////////////////
+﻿////////////////////////////////////// MIT License ////////////////////////////////////////////
 //
 //   Projekt      : [Problem maksymalnego przepływu – implementacja algorytmu DMKM w języku C++]
 //   Plik         : [dmkm.cpp]
