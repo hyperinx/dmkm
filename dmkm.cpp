@@ -6,6 +6,7 @@
 //
 //   Utworzony: 21/06/2021
 //   Autor: [Mykhailo Morrison] <mailto:[mykhailo.morrison@gmail.com]>
+//   @license    http://www.opensource.org/licenses/mit-license.html  MIT License
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
 
